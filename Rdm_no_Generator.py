@@ -1,3 +1,4 @@
+# A random number generator for testing the structure of the code before adding FFT and music fusion
 import random as rdm
 import serial as srl
 import time

@@ -1,3 +1,4 @@
+# A code primarily made to test smaller sections of the main code independedntly for syntax errors and working logic before adding them to the main code.
 import soundcard as sc
 import numpy as np
 
